@@ -1,0 +1,5 @@
+Generative AI is the capability of AI systems to generate new content.
+RAG stands for Retrieval-Augmented Generation; it combines search and generation to ground answers.
+Agentic AI enables autonomous agents that plan, call tools, and keep memory.
+Guardrails ensure safety — filter PII, profanity, and block dangerous instructions.
+Monitoring and logging are required for observability and compliance in production.
