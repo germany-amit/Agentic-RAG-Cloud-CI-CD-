@@ -1,0 +1,4 @@
+Company Policy (demo):
+1. Do not expose PII. Any PII must be redacted.
+2. All model outputs must be checked against known sources before acting.
+3. Maintain audit logs for all AI-driven decisions.
